@@ -13,8 +13,9 @@ function findMissingInArr(num) {
     if(missingNo==null){
       missingNo = min-1;
     }
+    
     return missingNo;
   }
   
-  var numberSeq= [21,25,29,28,22,24,27,26,30,23];
+  var numberSeq= [21,25,29,28,22,24,27,26,30];
   console.log(findMissingInArr(numberSeq));
