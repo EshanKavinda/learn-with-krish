@@ -7,4 +7,4 @@ i.e. : numberSeq= [21,25,29,28,22,24,27,26,30] here missing one is 23. trick is 
 
 Execrise 2:
 Question 1: Write a program to reverse a singular linked list without using a second data structure.
-Question 2: Find if a given linked list is a palindrome or not.
+Question 2: Find if a given linked list is a palindrome or not without reversed a linked list.
